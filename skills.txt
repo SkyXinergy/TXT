@@ -26,3 +26,4 @@ Course program:
 24. Non-relational database Redis (installation, configuration and use).
 25. Load testing in Jmeter.
 26. Scrum development methodology.
+27.Python. (Learning the basics. Creating a client-server application)
